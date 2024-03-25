@@ -10,7 +10,6 @@
 			"sourceMap": true,
 			"out":  "${workspaceRoot}\\assets\\styles\\",
 			"main": "${workspaceRoot}\\assets\\styles\\styles.less"
-		},
-		"liveServer.settings.port": 5501
+		}
 	}
 }
