@@ -35,7 +35,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-- CSS Flexbox
 - Less preprocessor [lesscss.org](https://lesscss.org/)
 - Mobile-first workflow
 
