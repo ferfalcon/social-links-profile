@@ -1,0 +1,29 @@
+{
+	"name": "Fernando Falcon",
+	"location": "Montevideo, Uruguay",
+	"description": "Front-end developer and designer",
+	"imagelocation": "./assets/images/fer-falcon.jpg",
+	"imagealt": "Fernando Falcon",
+	"links": [
+		{
+			"name": "GitHub",
+			"url": "https://github.com/ferfalcon/"
+		},
+		{
+			"name": "Frontend Mentor",
+			"url": "https://www.frontendmentor.io/profile/ferfalcon/"
+		},
+		{
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/fernandofalcon/"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://twitter.com/FernandoFalcon/"
+		},
+		{
+			"name": "Instagram",
+			"url": "https://www.instagram.com/entusiasta_/"
+		}
+	]
+}
